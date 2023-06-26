@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.AssemblyInfo.cs
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\suployaa\suployaa\obj\Debug\net6.0\suployaa.RazorAssemblyInfo.cs
